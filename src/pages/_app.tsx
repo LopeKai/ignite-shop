@@ -7,7 +7,6 @@ import { Container,Header } from "../styles/pages/app";
 
 globalStyle()
 
-console.log(logoImg)
 export default function App({ Component, pageProps }: AppProps) {
 
   return (
